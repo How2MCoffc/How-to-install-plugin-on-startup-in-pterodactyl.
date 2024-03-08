@@ -24,4 +24,5 @@ else
     echo -e "Debug information:"
     ls -l temp_plugin.jar
     cat temp_plugin.jar
-fi```
+fi
+```
